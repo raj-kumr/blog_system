@@ -6,7 +6,7 @@ User Authentication: Register, log in, and log out.
 Blog Management: Create, edit, and delete blog posts.
 MySQL Database: Stores user credentials and blog posts.
 Responsive Interface: Basic HTML/CSS design for managing blog posts.
-Technologies Used
+Technologies UsedṄ
 Back-end: PHP
 Database: MySQL
 Front-end: HTML, CSS
